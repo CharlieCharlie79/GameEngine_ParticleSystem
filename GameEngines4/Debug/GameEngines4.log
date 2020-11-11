@@ -1,0 +1,73 @@
+﻿  AudioSource.cpp
+  AudioHandler.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_sdl_gl3.cpp
+  ComponentB.cpp
+  ComponentC.cpp
+  ComponentA.cpp
+  CollisionHandler.cpp
+  CollisionDetection.cpp
+  Camera.cpp
+  Debugger.cpp
+  CoreEngine.cpp
+  GameObject.cpp
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Rendering\3D\GameObject.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+  EventListener.cpp
+  Game1.cpp
+  GameScene.cpp
+  LightSource.cpp
+  LoadOBJModel.cpp
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Rendering\3D\LoadOBJModel.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Rendering\3D\GameObject.h(105): warning C4715: 'GameObject::GetComponent<AudioSource>': not all control paths return a value
+  Compiling...
+  main.cpp
+  Window.cpp
+  Timer.cpp
+  StartScene.cpp
+  Mesh.cpp
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Rendering\3D\Mesh.cpp(48,50): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Rendering\3D\Mesh.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+  Model.cpp
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Rendering\3D\Model.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+  ShaderHandler.cpp
+  TextureHandler.cpp
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Graphics\TextureHandler.cpp(61,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Graphics\TextureHandler.cpp(62,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MouseEventListener.cpp
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Event\MouseEventListener.cpp(88,44): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Event\MouseEventListener.cpp(90,27): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Event\MouseEventListener.cpp(91,27): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Event\MouseEventListener.cpp(98,13): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Event\MouseEventListener.cpp(99,13): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SceneGraph.cpp
+  MaterialHandler.cpp
+  MaterialLoader.cpp
+  OctSpatialPartition.cpp
+  Particle.cpp
+C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\GameEngines4\Engine\Rendering\Particles\Particle.cpp(84,17): warning C4244: 'initializing': conversion from 'glm::tvec3<float,0>::length_type' to 'float', possible loss of data
+  ParticleEmitter.cpp
+  Generating Code...
+  GameEngines4.vcxproj -> C:\Users\carlo\Desktop\GameEngines5_Particle_system - Copy\GameEngines5-master\Debug\GameEngines4.exe
